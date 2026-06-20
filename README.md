@@ -1,7 +1,7 @@
 # Arduino Assignment 1 — Smart Countdown
 This is my submission for Assignment 1 in the
 Programming C++ for Engineers Using Arduino course
-at [Ghana Communication Technology University/ BSc. Computer Engineering GrouP A].
+at [Ghana Communication Technology University/ BSc. Computer Engineering Group A].
 ## What this program does
 It counts down from 5 to 1 using a while loop. On each step:
 - It prints "Count: N" to the Serial Monitor.
